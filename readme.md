@@ -1,3 +1,8 @@
+### Disclaimer:
+**This project was migrated from [here](https://bitbucket.org/LukasKabrt/typelite/src/default/), where it is source controlled in Mercurial (will no longer be supported by BitBucket from june 2020), and seem to have not been updated in years.
+The migration was done so that we could all continue to maintain, expend and update this very useful too. 
+I'm inviting the original creater to come reclaim "ownership" if he/she wishes to  :)**
+
 # TypeLITE
 
 TypeLITE is the utility, that generates [TypeScript](http://www.typescriptlang.org/) definitions from .NET classes. 
